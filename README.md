@@ -50,6 +50,15 @@ I'm Fernando Nevarez, a 25 years old web developer from México.
 ![](https://raw.githubusercontent.com/enece618/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/enece618/github-stats-transparent/output/generated/languages.svg)
 
+### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+ </p>
+
 ### 🎧 Spotify Playing
 
 ![spotify-github-profile](/default.svg)
