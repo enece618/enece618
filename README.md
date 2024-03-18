@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+</p>
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/enece618/enece618/main/name.svg" alt="Fer Nevarez" />
 </h1>
