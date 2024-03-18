@@ -53,12 +53,7 @@
 >  <a href="https://stats.hyochan.dev/en/stats/enece618"><img align="right" src="https://stats.hyochan.dev/api/github-stats?login=enece618" width="500" /></a>
 > </p>
 
-
-
-
-
-
-
+<br />
 
 > ### 🎧 Spotify Playing
 > ![spotify-github-profile](/default.svg)
