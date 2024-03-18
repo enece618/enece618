@@ -51,7 +51,7 @@ I'm Fernando Nevarez, a 25 years old web developer from México.
 
 <strong>🏆 Lab's github stats</strong>
 
-<a href="[https://stats.hyochan.dev/en/stats/enece618](https://stats.dooboo.io/en/stats/enece618)"><img src="[https://stats.hyochan.dev/api/github-stats?login=enece618](https://stats.dooboo.io/en/stats/enece618)" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/enece618"><img src="https://stats.hyochan.dev/api/github-stats?login=enece618" width="600" /></a>
 
 
 ### 🎧 Spotify Playing
