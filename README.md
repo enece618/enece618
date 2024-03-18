@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/enece618/enece618/main/name.svg" alt="Fer Nevarez" />
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer" alt="Typing SVG" /></a>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://www.linkedin.com/in/fernando-nevarez-cardoza">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Roboto%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 ## Hey! 👋
 
