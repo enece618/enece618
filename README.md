@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/enece618/enece618/main/name.svg" alt="Fer Nevarez" />
 </h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer" alt="Typing SVG" /></a>
+
 ## Hey! 👋
 
 I'm Fernando Nevarez, a 25 years old web developer from México.
