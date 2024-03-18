@@ -5,8 +5,6 @@
 ## Hey! 👋
 
 I'm Fernando Nevarez, a 25 years old web developer from México.
-
-<img align="right" alt="GIF" src="https://github.com/enece618/enece618/blob/main/code.gif?raw=true" width="500" height="320" />
   
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=enece618&amp;show_icons=true" alt="GitHub Stats"></p>
