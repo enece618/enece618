@@ -46,8 +46,8 @@
 > [!NOTE]
 > <h3 align="left">GitHub Stats:</h3>
 > <p>
->  <img src="https://github-readme-stats.vercel.app/api?username=enece618&amp;show_icons=true" alt="GitHub Stats" width="390">
->  <a href="https://stats.hyochan.dev/en/stats/enece618"><img align="right" src="https://stats.hyochan.dev/api/github-stats?login=enece618" width="390" /></a>
+>  <img src="https://github-readme-stats.vercel.app/api?username=enece618&amp;show_icons=true" alt="GitHub Stats" width="385">
+>  <a href="https://stats.hyochan.dev/en/stats/enece618"><img align="right" src="https://stats.hyochan.dev/api/github-stats?login=enece618" width="385" /></a>
 > </p>
 
 <br />
