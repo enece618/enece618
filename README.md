@@ -47,17 +47,12 @@ I'm Fernando Nevarez, a 25 years old web developer from México.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=enece618&amp;show_icons=true)
 
-![](https://raw.githubusercontent.com/enece618/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/enece618/github-stats-transparent/output/generated/languages.svg)
-
-### - What i do
-
-
 <br />
 
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
- </p>
+<strong>🏆 Lab's github stats</strong>
+
+<a href="[https://stats.hyochan.dev/en/stats/enece618](https://stats.dooboo.io/en/stats/enece618)"><img src="[https://stats.hyochan.dev/api/github-stats?login=enece618](https://stats.dooboo.io/en/stats/enece618)" width="600" /></a>
+
 
 ### 🎧 Spotify Playing
 ![spotify-github-profile](/default.svg)
