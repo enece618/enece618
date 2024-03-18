@@ -60,9 +60,7 @@ I'm Fernando Nevarez, a 25 years old web developer from México.
  </p>
 
 ### 🎧 Spotify Playing
-<p align="center">
-  ![spotify-github-profile](/default.svg)
- </p>
+![spotify-github-profile](/default.svg)
 
 <!-- Footer -->
 <p align="center">
